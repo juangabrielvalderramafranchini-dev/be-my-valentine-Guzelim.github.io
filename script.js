@@ -1,13 +1,13 @@
 const messages = [
-"Estas Segura?",
-"Realmente segurta?",
-"Estas bien?",
-"Por favoooor",
-"!Piensalo bien!",
-"Si dices que no me pondre mal :(",
-"Estare muy triste :(",
-"Esta bien, dejare de preguntar",
-"Es broma, di si por favor! 😍",
+"Emin misin??",
+"Gerçekten güvenli mi?",
+"are you okay ?",
+"lutfeeeennn",
+"!Bunu iyice düşünün.!",
+"Hayır dersen üzülürüm. :(",
+"Çok üzüleceğim. :(",
+"Tamam, artık sormayı bırakıyorum.",
+"Şaka yapıyorum, lütfen evet deyin.! 😍",
 ]
 
 let mesaggeindex = 0;
